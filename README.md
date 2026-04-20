@@ -26,6 +26,9 @@ The goal is to deliver a fast, smooth and modern UX while offering additional to
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
+(This repo is for personal use, do not use this to get your s23 base un1ca, use another sources)
+also, thanks for fsrb-android-dev/UN1CA fot the target and UN1CA for such an amazing rom
+
 # Features
 ### Core features:
 - Based on the latest stable Galaxy S22 firmware
